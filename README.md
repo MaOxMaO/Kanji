@@ -1,0 +1,2 @@
+# Kanji
+Kanji Learning Progress
